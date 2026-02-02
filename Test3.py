@@ -1,1 +1,1 @@
-print("Hello world!")
+print("Python cmd running in VS code")
