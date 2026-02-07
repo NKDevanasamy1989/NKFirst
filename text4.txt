@@ -1,1 +1,1 @@
-new txt file
+New text file was created
